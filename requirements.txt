@@ -21,3 +21,4 @@ threadpoolctl>=2.0.0
 MarkupSafe>=0.23
 six>=1.5
 pyparsing>=2.0.3
+Bootstrap>=4.1.3
