@@ -1,6 +1,0 @@
-[core]
-    remote = myremote
-['remote "storage"']
-    url = s3://my-bucket/dvc-storage
-['remote "myremote"']
-    url = gdrive://1pKFA0z9y03yA_jQS5JJpStc3m8i6mhxW
