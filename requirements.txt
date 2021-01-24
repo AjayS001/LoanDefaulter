@@ -9,3 +9,14 @@ scikit-learn>=0.23.1
 jinja2==2.11.2
 gunicorn==20.0.4
 seaborn>=0.10.1
+click>=5.1
+itsdangerous>=0.24
+python_dateutil>=2.7.3
+pytz>=2017.2
+kiwisolver>=1.0.1
+cycler>=0.10
+pillow>=6.2.0
+joblib>=0.11
+threadpoolctl>=2.0.0
+MarkupSafe>=0.23
+six>=1.5
